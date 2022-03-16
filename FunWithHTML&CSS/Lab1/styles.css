@@ -1,0 +1,12 @@
+img{
+    width:150px;
+    display:block;
+    margin:0 auto 0 auto;
+}
+img:hover{
+    box-shadow:0 0 2px 1px;
+}
+
+/* body{
+    background-color: brown;
+} */
